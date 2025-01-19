@@ -1,0 +1,182 @@
+[
+    {
+        "id": "Tecnologia-01",
+        "titulo": "Auricular Inalambrico1",
+        "imagen": "./img/Tecnologia/01.png",
+        "categoria": {
+            "nombre": "Tecnologia",
+            "id": "Tecnologia"
+        },
+        "precio": 28000
+    },
+    {
+        "id": "Tecnologia-02",
+        "titulo": "Auricular Inalambricos2",
+        "imagen": "./img/Tecnologia/02.png",
+        "categoria": {
+            "nombre": "Tecnologia",
+            "id": "Tecnologia"
+        },
+        "precio": 28000
+    },
+    {
+        "id": "Tecnologia-03",
+        "titulo": "Auricular Elastico",
+        "imagen": "./img/Tecnologia/03.png",
+        "categoria": {
+            "nombre": "Tecnologia",
+            "id": "Tecnologia"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "Tecnologia-04",
+        "titulo": "Reloj Inteligente",
+        "imagen": "./img/Tecnologia/04.png",
+        "categoria": {
+            "nombre": "Tecnologia",
+            "id": "Tecnologia"
+        },
+        "precio": 50000
+    },
+    {
+        "id": "Tecnologia-05",
+        "titulo": "Cortadora De Pelo T9 ",
+        "imagen": "./img/Tecnologia/05.png",
+        "categoria": {
+            "nombre": "Tecnologia",
+            "id": "Tecnologia"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "Juguetes-01",
+        "titulo": "Consola De Juegos",
+        "imagen": "./img/Juguetes/01.png",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 50000
+    },
+    {
+        "id": "Juguetes-02",
+        "titulo": "Mini Elicoptero  ",
+        "imagen": "./img/Juguetes/02.png",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "Juguetes-03",
+        "titulo": "Lanzador De Cohetes",
+        "imagen": "./img/Juguetes/03.png",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 28000
+    },
+    {
+        "id": "Juguetes-04",
+        "titulo": "Bola Voladora",
+        "imagen": "./img/Juguetes/04.png",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 35000
+    },
+    {
+        "id": "Juguetes-05",
+        "titulo": "Captus Habla Y Baila",
+        "imagen": "./img/Juguetes/05.png",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 50000
+    },
+    {
+        "id": "Juguetes-06",
+        "titulo": "Cocodrilo Educativo",
+        "imagen": "./img/Juguetes/06.png",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "Juguetes-07",
+        "titulo": "Dron De Astronauta",
+        "imagen": "./img/Juguetes/07.png",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 35000
+    },
+    {
+        "id": "Juguetes-08",
+        "titulo": "Bloques Construccion",
+        "imagen": "./img/Juguetes/08.png",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 38000
+    },
+    {
+        "id": "Ropa-01",
+        "titulo": "Zapatos Deportivos",
+        "imagen": "./img/Ropa/01.png",
+        "categoria": {
+            "nombre": "Ropa",
+            "id": "Ropa"
+        },
+        "precio": 60000
+    },
+    {
+        "id": "Ropa-02",
+        "titulo": "Joogger Con Bolsillos",
+        "imagen": "./img/Ropa/02.png",
+        "categoria": {
+            "nombre": "Ropa",
+            "id": "Ropa"
+        },
+        "precio": 58000
+    },
+    {
+        "id": "Ropa-03",
+        "titulo": "Sombreros Doble Cara",
+        "imagen": "./img/Ropa/03.png",
+        "categoria": {
+            "nombre": "Ropa",
+            "id": "Ropa"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "Ropa-04",
+        "titulo": "Pantalones Deportivos",
+        "imagen": "./img/Ropa/04.png",
+        "categoria": {
+            "nombre": "Ropa",
+            "id": "Ropa"
+        },
+        "precio": 58000
+    },
+    {
+        "id": "Ropa-05",
+        "titulo": "Chaqueta Senderismo",
+        "imagen": "./img/Ropa/05.png",
+        "categoria": {
+            "nombre": "Ropa",
+            "id": "Ropa"
+        },
+        "precio": 58000
+    }
+]
